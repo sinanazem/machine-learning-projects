@@ -16,5 +16,3 @@ Linear regression predicts the dependent value (y) according to the independent 
 
 
 The linear regression model finds the best line, which predicts the value of y according to the provided value of x. To get the best line, it finds the most suitable values for 1 and 2. 1 is the intercept, and 2 is the coefficient of x. When we find the best values for 1 and 2, we find the best line for your linear regression as well.
-
-Now that we’ve discussed the basic concepts of linear regression, we can move onto our linear regression project ideas.
