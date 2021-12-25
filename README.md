@@ -1,4 +1,4 @@
-# Linear_Regression_Project
+# Linear Regression
 <img src="https://cdn-icons-png.flaticon.com/512/1998/1998646.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" 
