@@ -1,10 +1,4 @@
-# Linear Regression
-<img src="https://cdn-icons-png.flaticon.com/512/1998/1998646.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" 
-     width=200
-     height=200
-     />
+# Machine Learning Projects
 ## What is a Linear Regression?
 Linear Regression is a supervised learning algorithm in machine learning. It models a prediction value according to independent variables and helps in finding the relationship between those variables and the forecast. Regression models depend on the relationship between the independent and dependent variables as well as the number of variables they use.
 
