@@ -1,0 +1,8 @@
+streamlit==1.22.0
+pandas==1.5.3
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
+xgboost==1.7.6
+joblib==1.2.0
+seaborn==0.12.2
+loguru==0.7.0
