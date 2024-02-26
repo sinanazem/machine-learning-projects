@@ -61,10 +61,3 @@ Each project comes with its own set of instructions for usage. Navigate to the p
 
 Contributions are welcome! If you have an idea for a new project or improvements to existing ones, feel free to open an issue or submit a pull request. Please adhere to the [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the sections, add more details, or tailor the content to better suit your repository's needs.
